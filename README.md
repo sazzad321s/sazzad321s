@@ -1,14 +1,26 @@
 <h1 align="center">Hi 👋, I'm Md Sazzad Hossain Minhaz</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/sazzad321s](https://github.com/sazzad321s)
+- 🔭 I’m currently working on **React and Next js**
 
-- 📫 How to reach me **sajjadahmes234@gmail.com**
+- 🌱 Learning Something New **Next.Js**
+
+- 👯 I’m currently learning **TypeScript, Authentication and Next.js**
+
+- 🤝 Interested in **AI Engineering**
+
+- 💬 Ask me about **Front-End Technologies**
+
+- 📫 How to reach me **sazzadulhossain1290@gmail.com**
+
+- ⚡ Fun fact **I am still learning...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sazzad-hossain-5bb14843b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sazzad-hossain-5bb14843b" height="30" width="40" /></a>
 <a href="https://fb.com/sajjadul.hosen.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajjadul.hosen.11" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/minhaz321s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="minhaz321s" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/minhaz321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="minhaz321" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sazzad321s&show_icons=true&locale=en" alt="sazzad321s" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sazzad321s&" alt="sazzad321s" /></p>
+
