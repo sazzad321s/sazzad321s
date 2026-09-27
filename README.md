@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Md Sazzad Hossain Minhaz</h1>
-<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **React and Next js**
+<h3 align="center">
+  A passionate full-stack developer from Bangladesh
+</h3>
 
-- 🌱 Learning Something New **Next.Js**
+- 🔭 I’m currently working on **React and Next.js**
+
+- 🌱 Learning Something New **Next.js**
 
 - 👯 I’m currently learning **TypeScript, Authentication and Next.js**
 
@@ -15,31 +18,63 @@
 
 - ⚡ Fun fact **I am still learning...**
 
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
 
 <a href="https://github.com/sazzad321s" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sazzad321s" height="30" width="40" />
+  <img
+    align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+    alt="sazzad321s"
+    height="30"
+    width="40"
+  />
 </a>
 
 <a href="https://linkedin.com/in/sazzad-hossain-5bb14843b" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sazzad-hossain-5bb14843b" height="30" width="40" />
+  <img
+    align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    alt="sazzad-hossain-5bb14843b"
+    height="30"
+    width="40"
+  />
 </a>
 
 <a href="https://fb.com/sajjadul.hosen.11" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajjadul.hosen.11" height="30" width="40" />
+  <img
+    align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+    alt="sajjadul.hosen.11"
+    height="30"
+    width="40"
+  />
 </a>
 
 <a href="https://codeforces.com/profile/minhaz321s" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="minhaz321s" height="30" width="40" />
+  <img
+    align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
+    alt="minhaz321s"
+    height="30"
+    width="40"
+  />
 </a>
 
 <a href="https://www.leetcode.com/minhaz321" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="minhaz321" height="30" width="40" />
+  <img
+    align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+    alt="minhaz321"
+    height="30"
+    width="40"
+  />
 </a>
 
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -115,14 +150,32 @@
 
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sazzad321s&show_icons=true&locale=en&layout=compact" alt="sazzad321s" />
+
+<h3 align="left">GitHub Stats:</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sazzad321s&show_icons=true&include_all_commits=true&count_private=false&locale=en"
+    alt="Sazzad's GitHub Stats"
+  />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sazzad321s&show_icons=true&locale=en" alt="sazzad321s" />
+
+<h3 align="left">Top Languages:</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazzad321s&layout=compact&langs_count=8&locale=en"
+    alt="Sazzad's Top Languages"
+  />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sazzad321s" alt="sazzad321s" />
+
+<h3 align="left">GitHub Streak:</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sazzad321s"
+    alt="Sazzad's GitHub Streak"
+  />
 </p>
