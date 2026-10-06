@@ -54,6 +54,17 @@
 
 ---
 
+### 📂 Featured Projects
+
+- 🔗 **[portfolio-design](https://github.com/sazzad321s/portfolio-design)** — My personal portfolio website, built with HTML & CSS to showcase my skills, projects, and contact info.
+- 🔗 **[react-event-state](https://github.com/sazzad321s/react-event-state)** — A small React app demonstrating event handling and state management using React Hooks.
+- 🔗 **[Programming-Hero-Assignment-01](https://github.com/sazzad321s/Programming-Hero-Assignment-01)** — Assignment 1 for the Programming Hero web development course, practicing HTML/CSS fundamentals.
+- 🔗 **[My-second-github](https://github.com/sazzad321s/My-second-github)** — A practice repo for strengthening my Git/GitHub workflow with a simple HTML page.
+
+*(See all repositories on my [GitHub profile](https://github.com/sazzad321s?tab=repositories).)*
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
