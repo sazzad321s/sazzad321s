@@ -56,10 +56,10 @@
 
 ### 📂 Featured Projects
 
-- 🔗 **[portfolio-design](https://github.com/sazzad321s/portfolio-design)** — My personal portfolio website, built with HTML & CSS to showcase my skills, projects, and contact info.
-- 🔗 **[react-event-state](https://github.com/sazzad321s/react-event-state)** — A small React app demonstrating event handling and state management using React Hooks.
-- 🔗 **[Programming-Hero-Assignment-01](https://github.com/sazzad321s/Programming-Hero-Assignment-01)** — Assignment 1 for the Programming Hero web development course, practicing HTML/CSS fundamentals.
-- 🔗 **[My-second-github](https://github.com/sazzad321s/My-second-github)** — A practice repo for strengthening my Git/GitHub workflow with a simple HTML page.
+- 🔗 **[Book-vibe](https://github.com/sazzad321s/Book-vibe)** — *(edit me)* A book discovery & review app — browse titles, track reading status, and build a personal wishlist.
+- 🔗 **[Fit-log](https://github.com/sazzad321s/Fit-log)** — *(edit me)* A fitness tracker for logging workouts and monitoring progress over time.
+- 🔗 **[Schoolastic](https://github.com/sazzad321s/Schoolastic)** — *(edit me)* A school/education platform for managing students, classes, or study resources.
+- 🔗 **[Dev-stack-react](https://github.com/sazzad321s/Dev-stack-react)** — *(edit me)* A React project built to practice and showcase a modern front-end developer stack.
 
 *(See all repositories on my [GitHub profile](https://github.com/sazzad321s?tab=repositories).)*
 
